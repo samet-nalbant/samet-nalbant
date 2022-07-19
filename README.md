@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">A passionate Computer Engineering Student at Gebze Techincal University</h3>
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Backend Technologies and Software Architecture**
 
 - 📫 How to reach me **s.nalbant@outlook.com**
 
